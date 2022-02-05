@@ -20,33 +20,40 @@ The blockchain industry is ever-changing, and it would be a mistake to commit to
 ## Questions that need to answered
 The questions we need to answer are:
 
-1. Architecture
+1. Architecture: 
   a. First generation blockchain
   b. Sharded blockchain
   c. Etc.
-3. Consensus mechanism
+ 
+3. Consensus mechanism: 
   a. What is the consensus mechanism of the network?
   b. How easy/hard is it to become a miner/validator?
-5. Developability
+  
+5. Developability: 
   a. Is it EVM compatible? 
   b.If not, how do smart contracts work and get developed?
-4. Scalability strategy
+  
+4. Scalability strategy: 
   a. Does it rely on increasing block size, compute power, and bandwidth to achieve scalability? 
   b. Or does it rely on an innovative way to scalability where it avoids mining concentration to a few miners/validators? 
   c. What are the block size and block time of the ledger in the network?
   d. What is the max TPS of the network?
-5. Isolatability
+  
+5. Isolatability: 
   a. Does the network rely on other multiple chains inside the network? 
   b. If yes, how does it solve inter-chain communication problem?
   c. Is the inter-chain communication synchronous or asynchronous?
-6. Governance 
+  
+6. Governance: 
   a. How much influence do founders have on the project? 
   b. How is governance done? 
   c. Is it efficient or slow? 
   d. Is the governance structure a crucial part of the ecosystem?
-7. Security strategy
+  
+7. Security strategy: 
   a. How easy/hard is to freeze the network or worse re-organize the ledger?
-8. Decentralization strategy
+  
+8. Decentralization strategy: 
   a. Does the network employ any layer-2 strategy?
   b. Does the network support light clients? 
   c. Is every user in the ecosystem able to check the validity of data in the network?
@@ -55,15 +62,18 @@ The questions we need to answer are:
   f. Does one need huge amounts of native tokens to become a miner/validator?
   g. How is the chain size expected to grow in the future?
   h. Does the network employ techniques to strip off useless data in the network like zero knowledge proofs?
-9. Developer ecosystem
+  
+9. Developer ecosystem: 
   a. What is the state of the developer ecosystem in the network? 
   b. Do developers regularly contribute to the layer-0/1 code? 
   c. Is the network able to attract application-layer developers?
   d. What is the state of TVL and current activity in the network? 
   e. How is the developer ecosystem expected to grow in the future?
-10. Legitimacy of the team 
+  
+10. Legitimacy of the team: 
   a. Who are the people responsible for developing it? 
   b. Who is backing the project? 
   c. What are their incentives?
-11. Integration with other networks
+  
+11. Integration with other networks: 
   a. Does the network support or intended to support trustless integration with other networks?

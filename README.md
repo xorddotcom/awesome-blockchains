@@ -6,4 +6,10 @@ Ever since Ethereum became a victim of its own success with increasing gas fees 
 
 When one tries to see through the noise of these wars, one is encountered with the VCs of chains like Solana or Avalanche or the Ethereum maximalists, and there are very few who occupy the space in between.
 
-It is absolutely essential for the future of Xord that we analyze all the information available to us and form a coherent narrative inside and outside the company about how we see the world, create a framework that helps us make better decisions, make calculated bets on how the future will turn out, and constantly re-calibrate our direction.
+Anyone can analyze the information given here and form a coherent world-view of how the future will turn out.
+
+## Outcomes
+The industry can only go in three ways:
+1. Consolidation onto a single network where a single network has majority of all activity
+2. Multi-network with trustless integration where a few networks have majority of all activity
+3. Multi-network with centralized bridges where a few networks have majority of all activity

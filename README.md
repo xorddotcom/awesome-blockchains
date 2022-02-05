@@ -76,7 +76,9 @@ The questions we need to answer are:
   c. What are their incentives?
   
 11. Integration with other networks: 
-  a. Does the network support or intended to support trustless integration with other networks?
+  a. Does the network support or intend to support trustless integration with other networks?
+  
+12. What is the one thing in your opinion that makes this network different from the rest?
 
 ## Networks to be analyzed
 1. Ethereum, and all scalability solutions

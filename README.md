@@ -77,3 +77,17 @@ The questions we need to answer are:
   
 11. Integration with other networks: 
   a. Does the network support or intended to support trustless integration with other networks?
+
+## Networks to be analyzed
+1. Ethereum, and all scalability solutions
+2. Polkadot
+3. Avalanche
+4. Binance Smart Chain
+5. Solana
+6. Cosmos
+7. Terra
+8. Tezos
+9. Mina
+10. Near
+11. Radix
+12. Stacks

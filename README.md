@@ -1,5 +1,5 @@
 # Blockchain Networks Scorecard
-This document intends to make a detailed comparision about how the different networks attempt to the blockchain trilemma of scalability, security and decentralization.
+This document intends to make a detailed comparison about how the different networks attempt to the blockchain trilemma of scalability, security and decentralization.
 
 ## Introduction
 Ever since Ethereum became a victim of its own success with increasing gas fees to do simple on-chain tasks, a new race has started to overthrow Ethereum as the de-facto leader of the smart contract world. We have seen a cambrian explosion of new chains popping up to challenge Ethereum.

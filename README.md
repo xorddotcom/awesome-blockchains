@@ -85,7 +85,7 @@ The questions we need to answer are:
 2. Polkadot (Khuzama)
 3. Avalanche
 4. Binance Smart Chain
-5. Solana (Solana)
+5. Solana (Nabeel Naveed)
 6. Cosmos (Mavia)
 7. Terra (Aroon)
 8. Tezos

@@ -82,14 +82,14 @@ The questions we need to answer are:
 
 ## Networks to be analyzed
 1. Ethereum, and all scalability solutions
-2. Polkadot
+2. Polkadot (Khuzama)
 3. Avalanche
 4. Binance Smart Chain
-5. Solana
-6. Cosmos
-7. Terra
+5. Solana (Solana)
+6. Cosmos (Mavia)
+7. Terra (Aroon)
 8. Tezos
-9. Mina
-10. Near
-11. Radix
-12. Stacks
+9. Mina (Danial)
+10. Near (Hassan)
+11. Radix (Haseeb)
+12. Stacks (Waleed)
